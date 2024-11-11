@@ -22,19 +22,19 @@
     "url": "https://musickeeper.thomasevano.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musickeeper.thomasevano.fr.ico",
     "slug": "musickeeper",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1193,
-    "timeDay": 903,
-    "timeWeek": 1128,
-    "timeMonth": 1096,
-    "timeYear": 1193,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1192,
+    "timeDay": 965,
+    "timeWeek": 1123,
+    "timeMonth": 1095,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 15
     }
   },
   {
