@@ -22,18 +22,20 @@
     "url": "https://musickeeper.thomasevano.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musickeeper.thomasevano.fr.ico",
     "slug": "musickeeper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 910,
-    "timeWeek": 1161,
-    "timeMonth": 1102,
-    "timeYear": 1198,
-    "dailyMinutesDown": {}
+    "time": 1193,
+    "timeDay": 903,
+    "timeWeek": 1128,
+    "timeMonth": 1096,
+    "timeYear": 1193,
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "Eminem Quotes",
