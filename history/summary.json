@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 1077,
-    "timeWeek": 1053,
-    "timeMonth": 838,
-    "timeYear": 863,
+    "time": 860,
+    "timeDay": 636,
+    "timeWeek": 1032,
+    "timeMonth": 830,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/musickeeper.thomasevano.fr.ico",
     "slug": "musickeeper",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1160,
-    "timeDay": 1515,
-    "timeWeek": 953,
-    "timeMonth": 1060,
-    "timeYear": 1160,
+    "uptimeYear": "99.99%",
+    "time": 1151,
+    "timeDay": 508,
+    "timeWeek": 940,
+    "timeMonth": 1033,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2024-11-11": 15
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 721,
-    "timeWeek": 781,
-    "timeMonth": 774,
-    "timeYear": 781,
+    "time": 779,
+    "timeDay": 618,
+    "timeWeek": 782,
+    "timeMonth": 761,
+    "timeYear": 779,
     "dailyMinutesDown": {}
   }
 ]
